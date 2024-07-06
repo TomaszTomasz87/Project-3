@@ -1,3 +1,3 @@
 # Project-3
-karty animacyjne 
-animation card
+🇵🇱 karty animacyjne 
+🇺🇸 / 🇬🇧  animation card
